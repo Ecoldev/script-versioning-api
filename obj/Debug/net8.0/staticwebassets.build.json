@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a50C3Q8GyUc67VEMarqOM2xEQqHbSbbH0cLY87vwHps=",
+  "Source": "script-versioning-api",
+  "BasePath": "_content/script-versioning-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
